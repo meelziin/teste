@@ -1,0 +1,6 @@
+Linhas  = X
+Colunas = Y
+Por padrão a imagem sempre vai começar no left top
+treinar com os exercícios 3, 4 e 5
+contain faz com que a imagem seja 100% exibida
+cover vai cobrir 100% da viewport

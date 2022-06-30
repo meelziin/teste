@@ -1,0 +1,7 @@
+em HTML é id = em CSS é #
+em HTML é class = em CSS é .
+/*                   */
+id = unico
+class = multiplos
+o id sobrepoem a class
+

@@ -1,0 +1,13 @@
+in = polegadas
+em = porcentagem da fonte padrão
+ex = altura x de uma fonte "altura "m" e altura "x" é explicado no segundo video do capítulo 13"
+rem = é relativo a fonte configurada no body
+vw = porcentagem da largura da tela
+vh = altura da tela
+%
+"weight" = peso
+"underline" = sublinhado
+font-weight: bolder;
+font-style: italic;
+text-decoration: underline; 
+ordem do shorthand = font-style -> font-weight -> font-size -> font-family

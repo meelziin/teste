@@ -1,0 +1,10 @@
+/* fonts */
+
+https://fonts.google.com/
+https://www.dafont.com/pt/
+
+/* detector de fontes em imagens */
+
+https://www.whatfontis.com/
+https://www.fontsquirrel.com/
+https://www.myfonts.com/

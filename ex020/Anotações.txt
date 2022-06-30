@@ -1,0 +1,10 @@
+height = altura
+width = largura
+: = pseudoclasse
+pseudoclasse é relacionada com o estado de cada elemento
+hover = passando o mouse por cima
+#  = id
+.  = class
+:  = pseudo-class
+:: = pseudo-element
+>  = clildren

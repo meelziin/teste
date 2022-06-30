@@ -1,0 +1,11 @@
+padding = acolchoamento/preenchimento
+border  = borda
+outline = contorno/traçado
+box-level quebra a linha e sempre se inicial em uma linha nova e sempre oculpa a largura total da tela
+inline-level não quebra a linha e oculpa o tamanho que ele precisa e depois continua o conteudo na mesma linha
+sempre que otiliza uma <div> está usando box-level e quando ultiliza <span> inline-level
+USER AGENT = seu navegador
+margin: auto; para centralizar
+display muda a característica normal de um elemento
+para fazer um círculo use border-radius: 50%;
+
